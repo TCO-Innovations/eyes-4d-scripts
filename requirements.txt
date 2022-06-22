@@ -1,4 +1,4 @@
 rapidpro_python==2.6.1
 pytz==2019.2
 psycopg2==2.8.4
-numpy==1.17.0
+numpy==1.22.0
